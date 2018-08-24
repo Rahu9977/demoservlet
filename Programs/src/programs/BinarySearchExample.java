@@ -25,7 +25,7 @@ public class BinarySearchExample
 	      first = 0;
 	      last = num - 1;
 	      middle = (first + last)/2;
-
+//comment
 	      while( first <= last )
 	      {
 	         if ( array[middle] < item )
